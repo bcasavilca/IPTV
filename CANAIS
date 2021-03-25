@@ -1,15 +1,27 @@
-#EXTM3U
-#EXTINF:-1,iptvtools_1
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1,iptvtools_2
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_3
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_4
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_5
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_6
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,iptvtools_7
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+  ###########################################  BLOOMBERG US  ###########################################  
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+  ###########################################  BLOOMBERG LIVE EVENT  ###########################################  
+https://liveproduseast.global.ssl.fastly.net/pol/Channel-POL-AWS-virginia-1/Source-POL-1000-1_live.m3u8
+
+  ###########################################  KOREAN  ###########################################  
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+  ###########################################  AMERICAN  ###########################################  
+  http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+
+
+  ###########################################  MUSIC  ###########################################  
+  http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+
+  ###########################################  DOCUMENTARY  ###########################################  
+  
+  
+  
+    ###########################################  MOVIES  ###########################################  
+    
+    
+  ###########################################  BIG BROTHER BRASIL  ###########################################  
